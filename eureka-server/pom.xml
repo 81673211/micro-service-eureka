@@ -8,7 +8,6 @@
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>eureka-server</artifactId>
-	<packaging>jar</packaging>
 	<name>eureka-server</name>
 	<description>Demo project for Spring Boot</description>
 
